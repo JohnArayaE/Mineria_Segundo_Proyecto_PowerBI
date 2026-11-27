@@ -1,0 +1,79 @@
+﻿producto_key,producto_id,producto,cantidad_por_unidad,precio_lista,descontinuado,categoria
+-1,-1,Desconocido,Desconocido,0.00,No,Desconocido
+1,1,Chai,10 boxes x 20 bags,18.00,No,Beverages
+2,2,Chang,24 - 12 oz bottles,19.00,No,Beverages
+3,24,Guarana Fantastica,12 - 355 ml cans,4.50,Sí,Beverages
+4,34,Sasquatch Ale,24 - 12 oz bottles,14.00,No,Beverages
+5,35,Steeleye Stout,24 - 12 oz bottles,18.00,No,Beverages
+6,38,Côte de Blaye,12 - 75 cl bottles,263.50,No,Beverages
+7,39,Chartreuse verte,750 cc per bottle,18.00,No,Beverages
+8,43,Ipoh Coffee,16 - 500 g tins,46.00,No,Beverages
+9,67,Laughing Lumberjack Lager,24 - 12 oz bottles,14.00,No,Beverages
+10,70,Outback Lager,24 - 355 ml bottles,15.00,No,Beverages
+11,75,Rhönbräu Klosterbier,24 - 0.5 l bottles,7.75,No,Beverages
+12,76,Lakkaliköri,500 ml,18.00,No,Beverages
+13,9,Mishi Kobe Niku,18 - 500 g pkgs.,97.00,Sí,Meat & Poultry
+14,17,Alice Mutton,20 - 1 kg tins,39.00,Sí,Meat & Poultry
+15,29,Thüringer Rostbratwurst,50 bags x 30 sausgs.,123.79,Sí,Meat & Poultry
+16,53,Perth Pasties,48 pieces,32.80,Sí,Meat & Poultry
+17,54,Tourtière,16 pies,7.45,No,Meat & Poultry
+18,55,Pâté chinois,24 boxes x 2 pies,24.00,No,Meat & Poultry
+19,16,Pavlova,32 - 500 g boxes,17.45,No,Confections
+20,19,Teatime Chocolate Biscuits,10 boxes x 12 pieces,9.20,No,Confections
+21,20,Sir Rodney's Marmalade,30 gift boxes,81.00,No,Confections
+22,21,Sir Rodney's Scones,24 pkgs. x 4 pieces,10.00,No,Confections
+23,25,NuNuCa Nuß-Nougat-Creme,20 - 450 g glasses,14.00,No,Confections
+24,26,Gumbär Gummibärchen,100 - 250 g bags,31.23,No,Confections
+25,27,Schoggi Schokolade,100 - 100 g pieces,43.90,No,Confections
+26,47,Zaanse koeken,10 - 4 oz boxes,9.50,No,Confections
+27,48,Chocolade,10 pkgs.,12.75,No,Confections
+28,49,Maxilaku,24 - 50 g pkgs.,20.00,No,Confections
+29,50,Valkoinen suklaa,12 - 100 g bars,16.25,No,Confections
+30,62,Tarte au sucre,48 pies,49.30,No,Confections
+31,68,Scottish Longbreads,10 boxes x 8 pieces,12.50,No,Confections
+32,22,Gustaf's Knackebröd,24 - 500 g pkgs.,21.00,No,Grains & Cereals
+33,23,Tunnbröd,12 - 250 g pkgs.,9.00,No,Grains & Cereals
+34,42,Singaporean Hokkien Fried Mee,32 - 1 kg pkgs.,14.00,Sí,Grains & Cereals
+35,52,Filo Mix,16 - 2 kg boxes,7.00,No,Grains & Cereals
+36,56,Gnocchi di nonna Alice,24 - 250 g pkgs.,38.00,No,Grains & Cereals
+37,57,Ravioli Angelo,24 - 250 g pkgs.,19.50,No,Grains & Cereals
+38,64,Wimmers gute Semmelknödel,20 bags x 4 pieces,33.25,No,Grains & Cereals
+39,11,Queso Cabrales,1 kg pkg.,21.00,No,Dairy Products
+40,12,Queso Manchego La Pastora,10 - 500 g pkgs.,38.00,No,Dairy Products
+41,31,Gorgonzola Telino,12 - 100 g pkgs,12.50,No,Dairy Products
+42,32,Mascarpone Fabioli,24 - 200 g pkgs.,32.00,No,Dairy Products
+43,33,Geitost,500 g,2.50,No,Dairy Products
+44,59,Raclette Courdavault,5 kg pkg.,55.00,No,Dairy Products
+45,60,Camembert Pierrot,15 - 300 g rounds,34.00,No,Dairy Products
+46,69,Gudbrandsdalsost,10 kg pkg.,36.00,No,Dairy Products
+47,71,Flotemysost,10 - 500 g pkgs.,21.50,No,Dairy Products
+48,72,Mozzarella di Giovanni,24 - 200 g pkgs.,34.80,No,Dairy Products
+49,10,Ikura,12 - 200 ml jars,31.00,No,Seafood
+50,13,Konbu,2 kg box,6.00,No,Seafood
+51,18,Carnarvon Tigers,16 kg pkg.,62.50,No,Seafood
+52,30,Nord-Ost Matjeshering,10 - 200 g glasses,25.89,No,Seafood
+53,36,Inlagd Sill,24 - 250 g jars,19.00,No,Seafood
+54,37,Gravad lax,12 - 500 g pkgs.,26.00,No,Seafood
+55,40,Boston Crab Meat,24 - 4 oz tins,18.40,No,Seafood
+56,41,Jack's New England Clam Chowder,12 - 12 oz cans,9.65,No,Seafood
+57,45,Rogede sild,1k pkg.,9.50,No,Seafood
+58,46,Spegesild,4 - 450 g glasses,12.00,No,Seafood
+59,58,Escargots de Bourgogne,24 pieces,13.25,No,Seafood
+60,73,Röd Kaviar,24 - 150 g jars,15.00,No,Seafood
+61,7,Uncle Bob's Organic Dried Pears,12 - 1 lb pkgs.,30.00,No,Produce
+62,14,Tofu,40 - 100 g pkgs.,23.25,No,Produce
+63,28,Rössle Sauerkraut,25 - 825 g cans,45.60,Sí,Produce
+64,51,Manjimup Dried Apples,50 - 300 g pkgs.,53.00,No,Produce
+65,74,Longlife Tofu,5 kg pkg.,10.00,No,Produce
+66,3,Aniseed Syrup,12 - 550 ml bottles,10.00,No,Condiments
+67,4,Chef Anton's Cajun Seasoning,48 - 6 oz jars,22.00,No,Condiments
+68,5,Chef Anton's Gumbo Mix,36 boxes,21.35,Sí,Condiments
+69,6,Grandma's Boysenberry Spread,12 - 8 oz jars,25.00,No,Condiments
+70,8,Northwoods Cranberry Sauce,12 - 12 oz jars,40.00,No,Condiments
+71,15,Genen Shouyu,24 - 250 ml bottles,15.50,No,Condiments
+72,44,Gula Malacca,20 - 2 kg bags,19.45,No,Condiments
+73,61,Sirop d'érable,24 - 500 ml bottles,28.50,No,Condiments
+74,63,Vegie-spread,15 - 625 g jars,43.90,No,Condiments
+75,65,Louisiana Fiery Hot Pepper Sauce,32 - 8 oz bottles,21.05,No,Condiments
+76,66,Louisiana Hot Spiced Okra,24 - 8 oz jars,17.00,No,Condiments
+77,77,Original Frankfurter Grüne Soße,12 boxes,13.00,No,Condiments

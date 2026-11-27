@@ -1,0 +1,11 @@
+﻿empleado_key,empleado_id,nombre,puesto,ciudad,pais,supervisor
+-1,-1,Desconocido,Desconocido,Desconocido,Desconocido,Desconocido
+1,2,Andrew Fuller,Vice President Sales,New York,USA,Sin supervisor
+2,6,Michael Suyama,Sales Representative,London,UK,Steven Buchanan
+3,7,Robert King,Sales Representative,London,UK,Steven Buchanan
+4,9,Anne Dodsworth,Sales Representative,London,UK,Steven Buchanan
+5,1,Nancy Davolio,Sales Representative,New York,USA,Laura Callahan
+6,3,Janet Leverling,Sales Representative,New York,USA,Laura Callahan
+7,4,Margaret Peacock,Sales Representative,New York,USA,Laura Callahan
+8,5,Steven Buchanan,Sales Manager,London,UK,Andrew Fuller
+9,8,Laura Callahan,Sales Manager,New York,USA,Andrew Fuller
